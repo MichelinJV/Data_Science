@@ -14,6 +14,10 @@ Os projetos de ciência de dados apresentados aqui são:
 
 * rotatividade_clientes: Determina a rotatividade de clientes analisando os dados de uma empresa fictícia de telecomunicações, para que o marketing possa tomar medidas para retê-los.
 
-* recomendaçao_ecommerce: Sistema de recomendação desenvolvido baseado na jornada de um novo cliente desde o momento em que ele chega ao site da empresa pela primeira vez até quando ele faz compras repetidas.
+* recomendaçao_ecommerce: Sistema de recomendação desenvolvido para melhorar as vendas em um site, baseado na jornada de um novo cliente desde o momento em que ele chega ao site da empresa pela primeira vez até quando ele faz compras repetidas.
 
-* fluxo_clientes: 
+* fluxo_clientes: Projeto que usa modelos estatísticos para prever o fluxo de clientes em um estabelecimento, para que seja contratados funcionários temporários em situalções de grande demanda de clientes.
+
+* demanda_itens_loja: Analisa, prevê e otimiza as vendas dos produtos de diferentes lojas para os próximos meses.
+
+* consumo_cerveja_sp: Projeto criado para determinar quanta cerveja será consumida em um dia em um bar universitário de São Paulo, garantindo um controle de estoque da bebida.
